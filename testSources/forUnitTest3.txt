@@ -1,0 +1,26 @@
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace namespace1
+{
+    class myClass1
+    {
+      public void method1()
+	  {
+	  
+	  }
+	  namespace ns2{
+	   public class myClass2
+		{
+		public void method2(){}
+		}
+		}
+    }
+	
+
+	
+}
